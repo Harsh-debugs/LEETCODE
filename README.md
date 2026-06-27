@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/Harsh-debugs/LEETCODE/tree/master/0338-counting-bits) |
+| [0784-letter-case-permutation](https://github.com/Harsh-debugs/LEETCODE/tree/master/0784-letter-case-permutation) |
 ## Design
 |  |
 | ------- |
@@ -27,4 +28,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Harsh-debugs/LEETCODE/tree/master/0303-range-sum-query-immutable) |
+## String
+|  |
+| ------- |
+| [0784-letter-case-permutation](https://github.com/Harsh-debugs/LEETCODE/tree/master/0784-letter-case-permutation) |
+## Backtracking
+|  |
+| ------- |
+| [0784-letter-case-permutation](https://github.com/Harsh-debugs/LEETCODE/tree/master/0784-letter-case-permutation) |
 <!---LeetCode Topics End-->
