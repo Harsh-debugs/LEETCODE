@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Harsh-debugs/LEETCODE/tree/master/0053-maximum-subarray) |
+| [0078-subsets](https://github.com/Harsh-debugs/LEETCODE/tree/master/0078-subsets) |
 | [0303-range-sum-query-immutable](https://github.com/Harsh-debugs/LEETCODE/tree/master/0303-range-sum-query-immutable) |
 ## Divide and Conquer
 |  |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Harsh-debugs/LEETCODE/tree/master/0078-subsets) |
 | [0338-counting-bits](https://github.com/Harsh-debugs/LEETCODE/tree/master/0338-counting-bits) |
 | [0784-letter-case-permutation](https://github.com/Harsh-debugs/LEETCODE/tree/master/0784-letter-case-permutation) |
 ## Design
@@ -35,5 +37,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Harsh-debugs/LEETCODE/tree/master/0078-subsets) |
 | [0784-letter-case-permutation](https://github.com/Harsh-debugs/LEETCODE/tree/master/0784-letter-case-permutation) |
 <!---LeetCode Topics End-->
