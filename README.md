@@ -42,4 +42,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/Harsh-debugs/LEETCODE/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Harsh-debugs/LEETCODE/tree/master/0078-subsets) |
 | [0784-letter-case-permutation](https://github.com/Harsh-debugs/LEETCODE/tree/master/0784-letter-case-permutation) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/Harsh-debugs/LEETCODE/tree/master/0876-middle-of-the-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/Harsh-debugs/LEETCODE/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
