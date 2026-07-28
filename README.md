@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Harsh-debugs/LEETCODE/tree/master/0001-two-sum) |
 | [0046-permutations](https://github.com/Harsh-debugs/LEETCODE/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/Harsh-debugs/LEETCODE/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Harsh-debugs/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/Harsh-debugs/LEETCODE/tree/master/0078-subsets) |
 | [0217-contains-duplicate](https://github.com/Harsh-debugs/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Harsh-debugs/LEETCODE/tree/master/0268-missing-number) |
@@ -104,4 +105,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Harsh-debugs/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Harsh-debugs/LEETCODE/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Harsh-debugs/LEETCODE/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
