@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Harsh-debugs/LEETCODE/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/Harsh-debugs/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/Harsh-debugs/LEETCODE/tree/master/0078-subsets) |
+| [0217-contains-duplicate](https://github.com/Harsh-debugs/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0303-range-sum-query-immutable](https://github.com/Harsh-debugs/LEETCODE/tree/master/0303-range-sum-query-immutable) |
 ## Divide and Conquer
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Harsh-debugs/LEETCODE/tree/master/0141-linked-list-cycle) |
+| [0217-contains-duplicate](https://github.com/Harsh-debugs/LEETCODE/tree/master/0217-contains-duplicate) |
 ## Recursion
 |  |
 | ------- |
@@ -75,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Harsh-debugs/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/Harsh-debugs/LEETCODE/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Harsh-debugs/LEETCODE/tree/master/0234-palindrome-linked-list) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Harsh-debugs/LEETCODE/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
