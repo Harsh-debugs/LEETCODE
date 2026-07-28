@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Harsh-debugs/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/Harsh-debugs/LEETCODE/tree/master/0078-subsets) |
 | [0217-contains-duplicate](https://github.com/Harsh-debugs/LEETCODE/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Harsh-debugs/LEETCODE/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/Harsh-debugs/LEETCODE/tree/master/0303-range-sum-query-immutable) |
 ## Divide and Conquer
 |  |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Harsh-debugs/LEETCODE/tree/master/0078-subsets) |
+| [0268-missing-number](https://github.com/Harsh-debugs/LEETCODE/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Harsh-debugs/LEETCODE/tree/master/0338-counting-bits) |
 | [0784-letter-case-permutation](https://github.com/Harsh-debugs/LEETCODE/tree/master/0784-letter-case-permutation) |
 ## Design
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Harsh-debugs/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/Harsh-debugs/LEETCODE/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Harsh-debugs/LEETCODE/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
@@ -81,4 +84,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Harsh-debugs/LEETCODE/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Harsh-debugs/LEETCODE/tree/master/0268-missing-number) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Harsh-debugs/LEETCODE/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Harsh-debugs/LEETCODE/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
