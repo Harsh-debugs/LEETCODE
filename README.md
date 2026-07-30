@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Harsh-debugs/LEETCODE/tree/master/0303-range-sum-query-immutable) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Harsh-debugs/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Harsh-debugs/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Harsh-debugs/LEETCODE/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Harsh-debugs/LEETCODE/tree/master/2073-time-needed-to-buy-tickets) |
 ## Divide and Conquer
 |  |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Harsh-debugs/LEETCODE/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Harsh-debugs/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Harsh-debugs/LEETCODE/tree/master/0234-palindrome-linked-list) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Harsh-debugs/LEETCODE/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Sorting
 |  |
 | ------- |
@@ -121,11 +123,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Harsh-debugs/LEETCODE/tree/master/0054-spiral-matrix) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Harsh-debugs/LEETCODE/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Harsh-debugs/LEETCODE/tree/master/2073-time-needed-to-buy-tickets) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Harsh-debugs/LEETCODE/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Harsh-debugs/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Harsh-debugs/LEETCODE/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Harsh-debugs/LEETCODE/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
